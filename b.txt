@@ -1,2 +1,4 @@
 config:
  this is config master
+ *************************
+ this is config dev
